@@ -13,7 +13,7 @@ What kind of change does this PR introduce?
 - [ ] Bugfix
 - [ ] Feature
 - [ ] Code style update (formatting, local variables)
-- [ ] Refactoring (no functional changes, no api changes)
+- [ ] Refactoring (no functional changes, no API changes)
 - [ ] Build related changes
 - [ ] CI related changes
 - [ ] Documentation content changes
@@ -32,10 +32,6 @@ What kind of change does this PR introduce?
 - [ ] Yes
 - [ ] No
 
-
-<!-- If this PR contains a breaking change, please describe the impact and migration path for existing applications below. -->
-
-
 ## Other information
 
 <!--- The issue this PR addresses -->
@@ -44,10 +40,14 @@ What kind of change does this PR introduce?
 
 ### Context
 
-<!--- Why do you believe many users will benefit from this change? -->
-
-<!--- Link to relevant issues or forum discussions here -->
 
 ### Contributor Checklist
 
-- [ ] [Review Contribution Guidelines](https://github.com/gbowne1/taotnpwaft_site/blob/master/CONTRIBUTING.md)
+- [ ] [Review Contribution Guidelines](https://github.com/taotnpwaft/docs/master/CONTRIBUTING.md)
+- [ ] Make sure your code has been tested.
+- [ ] Make sure any workflows and/or GitHub Actions and any configured task runners have been run and have passed.
+- [ ] Make sure your code follows the code style guides for the languages you have used
+- [ ] Proofread your code for spelling / typograpical errors.  {Perhaps install a spelling/typo extension}
+- [ ] Include links to any documentation, especially on 2nd, 3rd party sites.
+- [ ] If your code runs in the browser, check the browswer console.  Also make sure it renders correctly.
+- [ ] Make sure libraries are up to date.
