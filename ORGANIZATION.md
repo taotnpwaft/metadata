@@ -36,7 +36,9 @@ Reddit Staff: @AmigaGod  @gbowne1
 
 IRC Staff: @swathe  @AmigaGod @gbowne1 @Mr_Mordaeus
 
-Twitch Staff: [Open Position]
+Twitch Staff:
+
+- Moderators: @AmigaGod
 
 TAOT Website Admin: [Open Position]
 
@@ -44,12 +46,12 @@ Discord Staff:
    Admin Lv 1: @AmigaGod @idormain
    Admin Lv 2:  [Open Position]
    Admin Lv 3:  [Open Position]
-   Moderator Lv 1: [Open Position]
+   Moderator Lv: 1: [Open Position]
    Moderator Lv: 2 @Mr_Mordaeus
    Moderator Lv: 3 [Open Position]
-   Support Lv: 1
-   Support Lv: 2 @Moe @swathe
-   Support Lv: 3
+   Support Lv: 1 [Open Position]
+   Support Lv: 2 @Moe @swathe @BenCos17 @HritikR
+   Support Lv: 3 [Open Position]
 
 If you have any questions, comments, or concerns please feel free to DM @gbowne1 or one of our Administrators or Moderators.
 
