@@ -18,3 +18,5 @@ If we have missed your name please feel free to add it with contribution link.
 | [@HritikR] [https://www.github.com/HritikR/]       | Website |
 | [@Trupti0406] [https://www.github.com/Trupti0406]  | Website |
 | [@NaincyKumariKnoldus] [https://github.com/NaincyKumariKnoldus] | Website |
+| [@BenCos18] [https://github.com/BenCos18] | Discord Bot |
+| [@HitBlast] [https://github.com/hitblast | Discord Bot, Meta & Docs |
