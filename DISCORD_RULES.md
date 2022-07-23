@@ -32,7 +32,7 @@ So with that said, Any other actions that cause problems will be dealt with as n
 
 ### __PLEASE, NO DRAMA!__
 
-# Rules
+## Rules
 
 * Please read and follow Discord's Terms of Service: [https://discord.com/terms]
 
@@ -71,13 +71,13 @@ So with that said, Any other actions that cause problems will be dealt with as n
 
 * The Sending/Linking of any harmful material such as viruses, IP trackers or malicious links and/or the posting of someone's personal information will result in an immediate and permanent ban hammer.
 
-# Admin & Moderators
+## Admin & Moderators
 
 The people with orange names are admins and moderators. If you are experiencing some sort of trouble with the server, or otherwise have helpful suggestions or ideas, these are the people to contact.
 
 If another user of this server is causing problems on this server or with you or another user of this server, please let us know ASAP so it can be addressed.
 
-# Our Community & It's Goals  
+## Our Community & It's Goals
 
 ❤️ This community is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. ❤️  
 

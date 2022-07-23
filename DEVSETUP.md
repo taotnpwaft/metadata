@@ -37,7 +37,7 @@ The .vscode folder includes project, workspace and settings files.
 
 ## Visual Studio
 
-The .vs folder includes project, workspace and settings files.
+The .vs folder includes project, workspace and settings files.  These files are 
 
 ## Sublime Text
 

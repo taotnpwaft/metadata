@@ -1,4 +1,6 @@
-DRAFT]
+# Group Policies
+
+[DRAFT]
 
 * Ideally this file should contain the business model governing rules for our organization which is The Art of Tech: Not Playing with a Full Tech, LLC. especially as it grows.
 

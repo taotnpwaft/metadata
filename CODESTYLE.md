@@ -1,4 +1,6 @@
-The Art of Tech: Not Playing with a Full Tech Codestyle
+# Code Style
+
+This is the The Art of Tech: Not Playing with a Full Tech Codestyle
 
 Our projects are typically coded in:
 

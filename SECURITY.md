@@ -16,8 +16,7 @@ Thank you for improving the security of The Art of Tech: Not Playing with a Full
 
 Report security bugs by emailing the lead maintainer at The Art of Tech: Not Playing with a Full Tech community repository.
 
-The lead maintainer will acknowledge your email within 48 hours, and will send a more detailed response within 48 hours indicating the next steps in handling
-your report. After the initial reply to your report, the security team will endeavor to keep you informed of the progress towards a fix and full announcement, and may ask for additional information or guidance.
+The lead maintainer will acknowledge your email within 48 hours, and will send a more detailed response within 48 hours indicating the next steps in handling your report. After the initial reply to your report, the security team will endeavor to keep you informed of the progress towards a fix and full announcement, and may ask for additional information or guidance.
 
 Report security bugs in third-party modules to the person or team maintaining the module.
 
@@ -65,20 +64,14 @@ We will create a maintainer security advisory on GitHub to discuss internally an
 
 ## Safe harbor
 
-    Make a good faith effort to avoid privacy violations, destruction of data,
-    and interruption or degradation of our services
+    Make a good faith effort to avoid privacy violations, destruction of data, and interruption or degradation of our services
 
-    Only interact with accounts you own or with explicit permission of the
-    account holder.
-    If you do encounter Personally Identifiable Information (PII) contact us
-    immediately, do not proceed with access, and immediately purge any local
-    information
+    Only interact with accounts you own or with explicit permission of the account holder. If you do encounter Personally Identifiable Information (PII) contact us immediately, do not proceed with access, and immediately purge any local
+    information.
 
-    Provide us with a reasonable amount of time to resolve vulnerabilities prior
-    to any disclosure to the public or a third-party
+    Provide us with a reasonable amount of time to resolve vulnerabilities prior to any disclosure to the public or a third-party.
 
-    We will consider activities conducted consistent with this policy to\constitute “authorized” conduct and will not pursue civil action or initiate
-    a complaint to law enforcement. We will help to the extent we can if legal action is initiated by a third party against you
+    We will consider activities conducted consistent with this policy to\constitute “authorized” conduct and will not pursue civil action or initiate a complaint to law enforcement. We will help to the extent we can if legal action is initiated by a third party against you.
 
 Please submit a report to us before engaging in conduct that may be inconsistent with or unaddressed by this policy.
 
