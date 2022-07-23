@@ -1,6 +1,6 @@
 # The Art of Tech: Not Playing with a Full Tech
 
-If you would like to know more about our group please see ABOUT.md
+If you would like to know more about our group please see [ABOUT.md](https://github.com/taotnpwaft/metadata/blob/main/ABOUT.md)
 
 This is the global repository for documentation and the intellectual property for the The Art of Tech: Not Playing with a Full Tech community until the point I can organize together a Github organization.
 

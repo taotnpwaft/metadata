@@ -1,0 +1,20 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "[markdown]": {
+        "editor.fontFamily": "",
+        "editor.fontLigatures": true,
+        "editor.fontSize": 14,
+        "editor.lineHeight": 26,          
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 150,        
+        "editor.lineNumbers": "on",
+        "editor.quickSuggestions": {
+            "other": "on",
+            "comments": "off",
+            "strings": "off"
+        },
+        "editor.wordBasedSuggestions": true,
+        "editor.dragAndDrop": false,
+        "editor.snippetSuggestions": "top",
+    }
+}
