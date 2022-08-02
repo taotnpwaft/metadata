@@ -11,7 +11,7 @@ Please have a read on [CODESTYLE.md](CODESTYLE.md), any code that does not apply
 This section is for all IDE's not mentioned in this guide.
 It's very global, so you might need to take some extra steps to get it to work for you.
 
-1. Fork the [taotnpwaft repository](https://github.com/gbowne1/taotnpwaft).
+1. Fork the [taotnpwaft repository](https://github.com//taotnpwaft).
 2. Check out your fork and open it in your favorite IDE.
 3. If your favorite IDE is not below, please add your workspace and or project configuration settings to this project.
 
