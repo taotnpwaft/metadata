@@ -4,9 +4,9 @@
 
 Inside the The Art of Tech:NPWAFT Discord, We want everyone to have a safe, fun, and enjoyable time in this server, therefore we have put in place a few rules...  
 
-So, before we break down the server rules, everyone here would like to thank you for joining our family. We treat this server & community like our home. This community is a direct result of the type of people we encourage to participate and the rules we keep in place within the community; these rules we ask each and everyone of you to adhere to and follow. Rules listed above are not all the rules as the list would go all the way to the North Pole. So if a rule isnt listed but a mod asks you to stop what you are doing. You need to cease what you are doing thats wrong.
+So, before we break down the server rules, everyone here would like to thank you for joining our family. We treat this server & community like our home. This community is a direct result of the type of people we encourage to participate and the rules we keep in place within the community; these rules we ask each and everyone of you to adhere to and follow. Rules listed above are not all the rules as the list would go all the way to the North Pole. So if a rule isn't listed but a mod asks you to stop what you are doing. You need to cease what you are doing thats wrong.
 
-However, violations of the rules may result in a warning, kick, or ban, based on severity and this being said, all Admininstrative decisions are FINAL!
+However, violations of the rules may result in a warning, kick, or ban, based on severity and this being said, all Administrative decisions are FINAL!
 
 * If you see something against the rules or something that makes you feel unsafe, please message @gbowne1 directly, Staff including an Admin or Mods. We want this server to be a welcoming space!
 
@@ -22,7 +22,7 @@ However, violations of the rules may result in a warning, kick, or ban, based on
 
 * Avoid sending the same message multiple times within the span of a few minutes. This rule includes emoticon spam and letter spam!
 
-* No witch-hunting! Please do not publicly call out people and/or harass them for their misbehavior! If you catch another member breaking the rules, don't take it into your hands, report them privatelty to the Discord server owner @gbowne1 and/or Administrators.
+* No witch-hunting! Please do not publicly call out people and/or harass them for their misbehavior! If you catch another member breaking the rules, don't take it into your hands, report them privately to the Discord server owner @gbowne1 and/or Administrators.
 
 * Just because it's not specifically listed here doesn't mean it's allowed, avoid any drama and negativity for the sake of the community.
   
@@ -47,7 +47,7 @@ So with that said, Any other actions that cause problems will be dealt with as n
 
 * Please do not post any NSFW or obscene content. Any NSFW pictures and discussions will result in an instant ban.
 
-  * This includes text, images, or links featuring nudity, sex, hard violence, obsceneties or other graphically disturbing content.
+  * This includes text, images, or links featuring nudity, sex, hard violence, obscenities or other graphically disturbing content.
 
 * Please do not spam.
 

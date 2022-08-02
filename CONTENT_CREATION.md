@@ -2,7 +2,7 @@
 
 * Target Community Member
 
-    Our target community could be made up of email subscribers, social media followers, push notification subscribers, podcast subscribers, commenters, etc. and not necessarily of any age, race, religion, etc. only to have an interest in technology.
+    Our target community could be made up of email subscribers, social media followers, push notification subscribers, podcast subscribers, commenter, etc. and not necessarily of any age, race, religion, etc. only to have an interest in technology.
 
 * Content
 

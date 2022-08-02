@@ -13,6 +13,8 @@ Our projects are typically coded in:
     C#
     C++
     C
+    JSON
+    JSONC (with comments)
 
 The frameworks and libraries we use are:
 
