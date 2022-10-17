@@ -2,24 +2,16 @@
 
 ## Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, discussion or any other method with the owners of this repository before making a change.
+When contributing to this repository, 
 
 Please note we have a CODE_OF_CONDUCT.md, CODESTYLE.md and DEVSETUP.md within this repository.  Please review and follow them in all your interactions with the project.
 
-## Pull Request Process
-
-1. Ensure any install or build dependencies are removed before the end of the layer when doing a
-   build.
-
-2. Update the CHANGELOG.nd with details of changes
-
-3. Increase the version numbers in any examples files and the README.md to the new version that this
-   Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
-
-4. You may merge the Pull Request in once you have the sign-off of at least one other developer, or if you
-   do not have permission to do that, you may request the second reviewer to merge it for you.
-
+Please create a new branch `<user>-<change>` with main as the target branch in whatever repository project you are working with. Make your changes in that branch.
+   
+## Projects
+   
+   Members with write and/or Admin access can create repository projects.  If you would like to create a project or resource for the organization, feel free to discuss this with the organization staff including @gbowne1.
+   
 Some things to think about:
 
 1. Respect peoples' time.
@@ -36,24 +28,38 @@ Some things to think about:
 
 7. Review the code in chunks of 200-400 lines at the most.
 
-8. Add comments on your pull request to help guide the reviewer
+8. Add comments on your pull request to help guide the reviewer  This is required.
 
 9. Make it visual if possible. Add some screenshots if you believe that will help.
 
 ## Code Review Process
 
-We will be implementing a code review process to be described here.  Your code will have to pass CI/CD checks as well as reviews by a minimum of one maintainer/reviewer.
+Your code must be reviewed by no less than 2 reviewers for code to be merged.  We will not be merging code that has not been reviewed.  If you feel like your code has no significant negative effect on the code base, we can discuss merging at that point.  Please state this in your description.
+
+We will not merge any Pull Request without a 
 
 ## Issues and labels
 
-Our bug tracker utilizes several labels to help organize and identify issues. Here's what they represent and how we use them:
+Our Issues and Pull Requests require labeling for our bug and project tracking.  There is no good way for us to aggregate Issues or PR's without labels. So we will be requiring all Issues and Pull requests to have both a description, a good title and a com
 
-- `confirmed` - Issues that have been confirmed with a reduced test case and identify a bug.
-- `docs` - Issues for improving or updating our documentation.
-- `feature` - Issues asking for a new feature to be added, or an existing one to be extended or modified. New features require a minor version bump (e.g., `v3.0.0` to `v3.1.0`).
-- `help wanted` - Issues we need or would love help from the community to resolve.
-- `js` - Issues stemming from our compiled or source JavaScript files.
-- `meta` - Issues with the project itself or our GitHub repository.
+Our bug tracker utilizes several labels to help organize and identify issues for both Issues AND Pull Requests. Here's what they represent and how we use them:
+
+At the time this writing, our Labels are the defaults.  
+   
+   - Bug
+      Use this tag for a PR that inlcudes fixes for a bug.
+   - Documentation
+      Use this tag for bugs, typos or errors in Doucmentation, or adding new Documentation
+   - Enhancement
+      Use this if the code you submitted in a Pull Request is an enhancement, or adds a feature or fixes for a enhancement/feature.
+   - Good First Issue:
+      This sends out to sites like goodfirstissue.com so use this tag to add 
+   - Help Wanted
+      Use this tag only to submit if you believe your code needs more help to be completed. 
+   - Question
+       Use this tag if your PR includes a question that you may have for other members. 
+ 
+ We do not use the `invalid`, `wont-fix` or `duplicate` tags.
 
 ## Bug reports
 
@@ -62,17 +68,45 @@ Good bug reports are extremely helpful, so thanks!
 
 Guidelines for bug reports:
 
-## Feature requests
+As The Art of Tech: Not Playing with a Full Tech developers, we should strive for the best Bug Reports possible if not thorough.
 
-Feature requests are welcome. But take a moment to find out whether your idea
+ - Search the issues to see if the issue has been already added 
+ - Try and describe how you discovered the issue.
+ - Try and describe how you expected it to look and/or work.
+ - Describe the issue as best as possible. We suggest no more than 200-250 words.
+ - If there is more than one issue.  Feel free to submit issues for anything you find.
+ - Describe where the bug happens (ie Browser, Console, Terminal, Compiler etc.)
+ - If it's a browswer issue, add the version of your browser
+ - Describe the platform (Mac, Linux, Windows)
+ - If This issue affects a particular device, state Mobile or Desktop and any significant device information.
+ - Include version numbers of Browser or any other related software/applications used
+ - Let us know your IDE / editor and its' current version(s).
+ - Let us know what tests you ran, hopefully with screenshots.
+ - 
+
+Our current Bug Report template leaves a little to be desired, but it is the default template. @@TODO
+
+## Feature Requests
+
+We welcome Feature requests. But take a moment to find out whether your idea
 fits with the scope and aims of the project. It's up to *you* to make a strong
 case to convince the project's developers of the merits of this feature. Please
 provide as much detail and context as possible.
 
-## Pull requests
+## Pull Requests (PR's)
 
-Good pull requests—patches, improvements, new features—are a fantastic
-help. They should remain focused in scope and avoid containing unrelated
+We have very simple guidelines for Pull Requests
+
+- Create a Pull Request, comparing your branch to 'main'.
+- Assign a minimum or 2 reviewers
+  Please note that we require a minimum of 2 reviews for Pull Requests to be merged.
+- In the side panel, Assign yourself in the Asignees field.
+- We require all PR's have labels. Choose at least one l(1) label that fits the type of change you are making.
+- Most of our repository projects have Projects assosciated to them, so Choose the associated project in the Projects picker in the right side panel.
+- Please provide a description in the top level panel.  We will NOT accept any Pull Requests without a description.
+- Please provide a screenshot of the changes you made.
+   
+Good Pull Requests (PR's) patches, improvements and new features are a fantastic help. They should remain focused in scope and avoid containing unrelated
 commits.
 
 **Please ask first** before embarking on any **significant** pull request (e.g.
